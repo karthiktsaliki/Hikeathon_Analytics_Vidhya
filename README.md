@@ -4,7 +4,7 @@ This repo contains my code for Hikeathon contest conducted by Analytics Vidhya.
 
 ### Github Link
 
-https://github.com/karthiktsaliki/Innoplexus_NLP_Hackathon
+https://github.com/karthiktsaliki/Hikeathon_Analytics_Vidhya
 
 ### Libraries used
 
